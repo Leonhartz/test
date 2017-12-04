@@ -2,7 +2,5 @@
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
     <ImageTarget name="Chair10" size="10.000000 5.625000" />
-    <ImageTarget name="Chair01" size="0.100000 0.056250" />
-    <ImageTarget name="chair2" size="3.000000 1.687500" />
   </Tracking>
 </QCARConfig>
