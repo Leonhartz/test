@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
     <Tracking>
+        <ImageTarget name="cliff_cropped" size="1.000000 0.818182"/>
         <ImageTarget name="cliff" size="1.000000 0.750000"/>
         <ImageTarget name="Jennifer" size="1.000000 1.777778"/>
         <ImageTarget name="Carlos" size="1.500000 0.843750"/>
@@ -11,11 +12,11 @@
         <ImageTarget name="screen" size="0.300000 0.168750"/>
         <ImageTarget name="chair2" size="0.100000 0.056250"/>
         <ImageTarget name="rock_cube.Bottom" size="0.200000 0.130000"/>
+        <ImageTarget name="rock_cube.Front" size="0.200000 0.100000"/>
         <ImageTarget name="rock_cube.Left" size="0.130000 0.100000"/>
-        <ImageTarget name="rock_cube.Top" size="0.200000 0.130000"/>
         <ImageTarget name="rock_cube.Back" size="0.200000 0.100000"/>
         <ImageTarget name="rock_cube.Right" size="0.130000 0.100000"/>
-        <ImageTarget name="rock_cube.Front" size="0.200000 0.100000"/>
+        <ImageTarget name="rock_cube.Top" size="0.200000 0.130000"/>
         <MultiTarget name="rock_cube">
             <Part name="rock_cube.Left" translation="-0.10000000149011612 0 0" rotation="AD: 0 1 0 -90"/>
             <Part name="rock_cube.Right" translation="0.10000000149011612 0 0" rotation="AD: 0 1 0 90"/>
