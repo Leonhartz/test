@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
     <Tracking>
+        <ImageTarget name="atom_model" size="1.000000 0.685139"/>
         <ImageTarget name="cliff" size="1.000000 0.818182"/>
         <ImageTarget name="Jennifer" size="1.000000 1.777778"/>
         <ImageTarget name="Carlos" size="1.500000 0.843750"/>
